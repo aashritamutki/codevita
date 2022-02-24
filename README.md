@@ -1,2 +1,2 @@
 # codevita
-Solutions for codevita contest questions in Java
+Solutions for codevita contest 2019 questions in Java
